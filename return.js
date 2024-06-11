@@ -16,5 +16,5 @@ function bringSingara(money){
     var quentity = money / singaraPrice;
     return quentity;
 };
-var sigaras = bringSingara(90);
+var sigaras = bringSingara(110);
 console.log("singara pabo :",sigaras);

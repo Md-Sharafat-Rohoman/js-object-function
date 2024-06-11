@@ -12,8 +12,8 @@ function getAverage(assignment1 , assignment2 , assignment3){
     var average = total / 3;
     return average;
 };
-var assignement1Mark = 60;
+var assignement1Mark = 90;
 var assignement2Mark = 58;
-var assignement3Mark = 59;
+var assignement3Mark = 49;
 var myAverage = getAverage(assignement1Mark,assignement2Mark,assignement3Mark);
 console.log('amar total average mark holo :',myAverage)
